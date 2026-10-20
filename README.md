@@ -56,7 +56,6 @@ $ echo $STATUS
 open to junior backend / python roles & AI evaluation work
 ```
 
-</div>## Hi there 👋
 
 <!--
 **Mersbyte/Mersbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
