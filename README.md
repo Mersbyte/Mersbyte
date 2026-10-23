@@ -1,12 +1,22 @@
-Building developer tooling and backend systems now, heading toward embedded AI — Python, C/C++, TypeScript.
+<div align="center">
 
-Focus: protocol parsing, schema inference, code generation, low-level systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3b73&height=170&section=header&text=Mersbyte&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=developer%20tooling%20%C2%B7%20backend%20%C2%B7%20heading%20toward%20embedded%20AI&descSize=15&descAlignY=60" alt="Mersbyte" width="100%" />
 
-Shipped & active
-har2sdk — parses HTTP Archive (.har) traffic captures and synthesizes a typed TypeScript client, OpenAPI spec, and mock server from them. Ships an MCP server so Claude can name and document the endpoints. Published on npm. Infers real types from traffic instead of dumping the raw capture, and runs every output through a privacy pass before it reaches disk.
-(next: C/C++ systems work, then embedded AI projects)
-Stack
+<br/>
 
-Languages: Python · C · C++ · TypeScript · SQL Tooling: Linux · Git · Docker · GitHub Actions
+<img src="https://skillicons.dev/icons?i=py,c,cpp,ts,linux,git,docker&theme=dark" alt="Python, C, C++, TypeScript, Linux, Git, Docker" />
 
-npm · LinkedIn · email
+<br/><br/>
+
+<a href="https://github.com/Mersbyte/har2sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mersbyte&repo=har2sdk&theme=github_dark&hide_border=true" alt="har2sdk" height="130" /></a>
+<img src="https://streak-stats.demolab.com?user=Mersbyte&theme=dark&background=0d1117&hide_border=true" alt="GitHub streak" height="130" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake-dark.svg" />
+</picture>
+
+</div>
