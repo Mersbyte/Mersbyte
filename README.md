@@ -4,11 +4,11 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1793D1&center=true&vCenter=true&width=600&lines=%E2%9D%AF+whoami;%E2%97%86+mersbyte+%C2%B7+developer+tooling+%26+backend;%E2%96%B8+next%3A+embedded+AI+on+tiny+hardware" alt="❯ whoami" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=py,c,cpp,ts,linux,git,docker&theme=dark" alt="Python, C, C++, TypeScript, Linux, Git, Docker" />
-
-<br/><br/>
-
-<a href="https://github.com/Mersbyte/har2sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mersbyte&repo=har2sdk&theme=github_dark&hide_border=true" alt="har2sdk" height="130" /></a>
 
 <br/><br/>
 
