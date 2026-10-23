@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3b73&height=170&section=header&text=Mersbyte&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=developer%20tooling%20%C2%B7%20backend%20%C2%B7%20heading%20toward%20embedded%20AI&descSize=15&descAlignY=60" alt="Mersbyte" width="100%" />
+<img src="banner.png" alt="Mersbyte" width="100%" />
 
 <br/>
 
