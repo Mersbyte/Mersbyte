@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,ts,linux,git,docker&theme=dark" alt="Python, C, C++, TypeScript, Linux, Git, Docker" />
+<img src="https://skillicons.dev/icons?i=apple,c,cpp,py,rust,swift,linux&theme=dark" alt="macOS, C, C++, Python, Rust, Swift, Linux" />
 
 <br/><br/>
 
