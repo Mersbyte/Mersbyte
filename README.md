@@ -9,14 +9,9 @@
 <br/><br/>
 
 <a href="https://github.com/Mersbyte/har2sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mersbyte&repo=har2sdk&theme=github_dark&hide_border=true" alt="har2sdk" height="130" /></a>
-<img src="https://streak-stats.demolab.com?user=Mersbyte&theme=dark&background=0d1117&hide_border=true" alt="GitHub streak" height="130" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mersbyte/Mersbyte/output/github-snake-dark.svg" />
-</picture>
+<img src="github-metrics.svg" alt="metrics" width="100%" />
 
 </div>
